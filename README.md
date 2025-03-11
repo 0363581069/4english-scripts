@@ -1,5 +1,3 @@
-# 4english-scripts
-scripts for 4English Premium Mod
 // Script mở khóa Premium cho 4English
 const url = $request.url;
 const isSubscriptionEndpoint = url.includes("/v1/user/subscription");
